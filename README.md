@@ -21,9 +21,3 @@ This is a simple Django-based web application that allows users to vote on vario
 - Django (3.0 or higher)
 
 
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the Django community for their excellent documentation and resources.
